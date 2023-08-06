@@ -1,1 +1,1 @@
-# MyWebsite
+I tried method 1 and method 3. I shared the GitHub repository link using method 1. I uploaded a sql dump file and a php connection file using this method. In addition, I used method 3 to launch my website with my database using the 000webhost platform to allow anyone to access it.# MyWebsite
